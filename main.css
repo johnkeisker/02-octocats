@@ -1,0 +1,61 @@
+
+
+.octocat {
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin: 0 0 0 50px;
+  border-bottom: 1px solid darkgrey;
+  padding: 0 0 40px 0;
+}
+
+.octocat img {
+  width: 300px;
+  height: 300px;
+  border: 1px solid darkgrey;
+
+}
+.authors img {
+  width: 20px;
+  height: 20px;
+  float: right;
+  border: 0;
+  margin: 0 0 0 10px;
+}
+.image-number {
+  width: 24px;
+  height: 24px;
+  float:left;
+}
+
+.image-caption {
+  width: 250px;
+  height: 24px;
+  float:right;
+  text-align: right;
+}
+.image-caption span {
+  color: grey;
+}
+.image-caption a {
+  font-weight: bolder;
+  color: black;
+  text-decoration: none;
+}
+.image-number {
+color: lightgrey;
+}
+ul.octodex {
+  list-style: none;
+
+}
+
+ul.authors {
+  list-style: none;
+  float:right;
+  padding: 0 0 0 5px;
+}
+
+.image-footer {
+  padding: 10px;
+}
